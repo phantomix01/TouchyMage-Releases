@@ -1,11 +1,11 @@
 {
-  "version": "v1.5.4",
+  "version": "v1.5.5",
   "notes": "Nouvelle mise à jour disponible !",
-  "pub_date": "2026-07-14T16:16:02Z",
+  "pub_date": "2026-07-14T16:44:49Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL0hjeHJ5KzZaUjE5WlJrZEtZY2k2eXRRZlg3cmlrQjFrS09ObEVDVWpseFRkWGZ5Rk1lMDYwRXVXRHNqTG5hZjd1d3JiVFl1eDIzdmYya1N4WmpReVRuZWZWUGJtRVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MDQ1NzQ1CWZpbGU6VG91Y2h5TWFnZV8xLjUuNF94NjQtc2V0dXAuZXhlClliQldZL0pTVk9XNjdDNThMY054bmhhMkNRK1hUZEFBNS92OWpWSWVBVisxUUtzejExa3hnNjJ6elA2enRqY2lFUklYNWJPcWJ4M2NhOW40NVNxNEFBPT0K",
-      "url": "https://github.com/phantomix01/TouchyMage-Releases/releases/download/v1.5.4/TouchyMage_1.5.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL0hjeHJ5KzZaUi8xT2M5a2grZ0ZzRWNEcHRpdWFRSG5mNXlQN3N1MHdYazNkV1RpNVJCZGlLU1U2ZHlmdDN5ekRRaktXTCtqV3ZyK2ZvZmd4RzY4WlBpeTJBYzhscEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MDQ3NDg3CWZpbGU6VG91Y2h5TWFnZV8xLjUuNV94NjQtc2V0dXAuZXhlCjJSTy80QjVjc2I0NWxNU1gyUTJiWTJJRlFBZTVtaE9UVENHQ0xSQzhxWTBLTzVtSmtKOUpablZmTE5FVkErSzF0VDRVOVlxME0xYzFGc2dUbVZwdUNRPT0K",
+      "url": "https://github.com/phantomix01/TouchyMage-Releases/releases/download/v1.5.5/TouchyMage_1.5.5_x64-setup.exe"
     }
   }
 }
